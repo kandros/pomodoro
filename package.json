@@ -1,0 +1,18 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "example": "ts-node examples/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.13",
+    "ts-node": "^3.0.2",
+    "tslint": "^5.1.0",
+    "typescript": "^2.2.2"
+  },
+  "dependencies": {
+    "nanotimer": "^0.3.14"
+  }
+}
